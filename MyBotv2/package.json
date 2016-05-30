@@ -1,0 +1,35 @@
+{
+  "name": "MyBot",
+  "version": "0.0.1",
+  "description": "Wit.ai Node.js SDK",
+  "keywords": [
+    "bot",
+    "botengine",
+    "bots",
+    "wit",
+    "wit.ai",
+    "nlp",
+    "automation",
+    "slack",
+    "jira"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/wit-ai/node-wit",
+  "author": "Pol Hernández <polhedel@gmail.com>",
+  "dependencies": {
+    "@slack/client": "^2.0.6",
+    "jira-client": "*",
+    "jsonfile": "^2.3.1",
+    "loglevel": "^1.4.0",
+    "nconf": "^0.8.4",
+    "node-rest-client": "^1.8.0",
+    "node-uuid": "^1.4.7",
+    "node-wit": "^3.0.0",
+    "request": "^2.69.0",
+    "slackbots": "^0.5.1",
+    "underscore": "^1.8.3"
+  }
+}

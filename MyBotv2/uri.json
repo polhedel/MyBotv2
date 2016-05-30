@@ -1,0 +1,6 @@
+{
+    "session": "/rest/auth/1/session",
+    "issue": "/rest/api/2/issue",
+    "user":"rest/api/2/user",
+    "search": "/rest/api/2/search"
+}
